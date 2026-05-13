@@ -193,48 +193,4 @@ Currently Working On:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=120&section=footer" />
 
 </div>
-```
 
----
-
-# 📌 Setup Instructions
-
-1. Create a repository named exactly:
-
-```bash
-SOUMYABAN123
-```
-
-2. Add a `README.md`
-
-3. Copy the complete markdown above.
-
-4. Commit and push:
-
-```bash
-git add README.md
-git commit -m "Added animated GitHub profile"
-git push origin main
-```
-
----
-
-# ✨ Optional Enhancements
-
-## Add Visitor Counter
-
-```markdown
-<img src="https://komarev.com/ghpvc/?username=SOUMYABAN123&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-```
-
-## Add Spotify Widget
-
-```markdown
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://github.com/kittinan/spotify-github-profile)
-```
-
-## Add Holopin Badges
-
-```markdown
-[![@yourholopin's Holopin board](https://holopin.io/api/user/board?user=yourholopin)](https://holopin.io/@yourholopin)
-```
