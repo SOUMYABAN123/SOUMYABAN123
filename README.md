@@ -1,48 +1,240 @@
-# 👋 Hi, I'm Soumya Sekhar Banerjee
 
-🎓 **M.Sc. Information Technology (AI Specialization)** at SRH Hochschule Heidelberg 🇩🇪  
-🔬 Currently **AI Research Intern @ HOPn** (Berlin) — working on healthcare time-series ML  
-💼 Previously: **Accenture · CGI · Cognizant** (4+ yrs in software engineering)  
-🎯 **Open for Werkstudent + Full-Time** roles in Python Backend / AI / ML / NLP
+<h1 align="center">Hi 👋, I'm Soumya Sekhar Banerjee</h1>
+<h3 align="center">AI Engineer | Full Stack Developer | Researcher | Graph ML Enthusiast</h3>
 
----
+<div align="center">
 
-## 🛠️ Tech Stack
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+NLP+Engineer;FastAPI+%7C+Docker+%7C+AWS+Developer;Graph+Neural+Networks+Researcher;Digital+Health+Twin+Architect;Embedded+Systems+%26+Computer+Vision;Always+Building+Something+Innovative+🚀" alt="Typing SVG" />
 
-**Languages:** Python · SQL · Java · JavaScript  
-**AI/ML:** PyTorch · TensorFlow · scikit-learn · Hugging Face · LangChain  
-**Backend:** FastAPI · Flask · REST APIs · JWT  
-**Infra:** Docker · GitHub Actions · CI/CD · Linux · Grafana  
-**Databases:** PostgreSQL · MySQL · MongoDB
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🏥 [Digital Health Twin — Time-Series AI Platform](https://github.com/<your-username>/digital-health-twin)
-Production-grade AI platform combining time-series anomaly detection, FastAPI microservices, PostgreSQL, and Dockerized deployment for healthcare prediction.  
-`FastAPI` `PyTorch` `PostgreSQL` `Docker` `JWT`
+# 💫 About Me
 
-### 🔬 [Histopathology Patch Classification (ResNet-18)](https://github.com/<your-username>/Transfer-Learning-Strategies-for-Histopathology-Patch-Classification-Using-ResNet-18)
-Comparative study of 4 transfer-learning strategies for medical image classification.  
-`PyTorch` `Computer Vision` `Transfer Learning`
+🎓 Master's Student in Information Technology (AI Specialization) at **SRH Hochschule Heidelberg**  
+💡 Passionate about **Artificial Intelligence, Full Stack Systems, GNNs, Healthcare AI, and Embedded Systems**  
+🔬 Working on:
+- 🧠 Digital Health Twin Ecosystem
+- ⚛️ Graph Neural Networks for MOFs & Material Science
+- 🏥 AI-Powered Healthcare Intelligence Systems
+- 🤖 NLP + LLM + RAG Architectures
+- 📊 Real-time AI Analytics Platforms
 
-### 🧬 [QMOF Graph Learning with GNNs](https://github.com/<your-username>/qmof-gnn)
-Graph Neural Networks for material structure analysis using PyTorch Geometric and GraphSAGE.  
-`PyTorch Geometric` `GraphSAGE` `Research`
+💬 Ask me about:
+`Python` `FastAPI` `PyTorch` `Docker` `Graph ML` `PostgreSQL` `AWS` `Angular` `React` `MLOps`
 
-### 🚧 [RAG-Based Document Q&A](https://github.com/<your-username>/rag-doc-qa) *(in progress)*
-RAG system using LangChain + open-source LLMs + vector DB, served via FastAPI.  
-`LangChain` `LLMs` `RAG` `FastAPI`
+📫 Reach me at: **banerjeesoumyasekhar@gmail.com**
 
----
-
-## 📫 Reach Me
-
-📧 banerjeesoumyasekhar@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/soumya-banerjee-de)  
-📍 Heidelberg / Mannheim, Germany
+🌐 Portfolio (Coming Soon)
 
 ---
 
-*Open to Werkstudent (20 hrs/week) opportunities across Germany — immediate start.*
+# 🌈 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/soumya-banerjee-5aa65b191/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:banerjeesoumyasekhar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/SOUMYABAN123">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,php" />
+
+## 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,bootstrap" />
+
+## ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgresql,mysql,mongodb,redis" />
+
+## ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux,git" />
+
+## 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/SOUMYABAN123/Digital_Health_Twin-Risk-Prediction---Time-Series-Analysis">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=SOUMYABAN123&repo=Digital_Health_Twin-Risk-Prediction---Time-Series-Analysis&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/SOUMYABAN123/Transfer-Learning-Strategies-for-Histopathology-Patch-Classification-Using-ResNet-18">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=SOUMYABAN123&repo=Transfer-Learning-Strategies-for-Histopathology-Patch-Classification-Using-ResNet-18&theme=tokyonight" />
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SOUMYABAN123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SOUMYABAN123&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUMYABAN123&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🧠 AI & Research Domains
+
+<div align="center">
+
+| Domain | Technologies |
+|---|---|
+| 🤖 Artificial Intelligence | Deep Learning, NLP, Transformers |
+| 🧬 Healthcare AI | Digital Twins, Risk Prediction |
+| ⚛️ Graph ML | GNNs, GraphSAGE, PyG |
+| 🔬 Computer Vision | OpenCV, CNNs, Transfer Learning |
+| ☁️ Cloud & MLOps | Docker, AWS, CI/CD |
+| 🧱 Backend Engineering | FastAPI, Flask, PostgreSQL |
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SOUMYABAN123&theme=tokyonight&row=1&column=7" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SOUMYABAN123&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Currently Working On:
+  - Digital Health Twin Ecosystem
+  - AI + Genomics + Biomarker Intelligence
+  - Graph Neural Networks for MOFs
+  - Embedded AI Systems
+  - Research Publications & PhD Preparation
+````
+
+---
+
+# ☕ Support My Work
+
+<div align="center">
+
+<a href="https://github.com/SOUMYABAN123">
+<img src="https://img.shields.io/badge/⭐_Follow_Me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 “Building AI Systems That Create Real-World Impact”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=120&section=footer" />
+
+</div>
+```
+
+---
+
+# 📌 Setup Instructions
+
+1. Create a repository named exactly:
+
+```bash
+SOUMYABAN123
+```
+
+2. Add a `README.md`
+
+3. Copy the complete markdown above.
+
+4. Commit and push:
+
+```bash
+git add README.md
+git commit -m "Added animated GitHub profile"
+git push origin main
+```
+
+---
+
+# ✨ Optional Enhancements
+
+## Add Visitor Counter
+
+```markdown
+<img src="https://komarev.com/ghpvc/?username=SOUMYABAN123&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+```
+
+## Add Spotify Widget
+
+```markdown
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://github.com/kittinan/spotify-github-profile)
+```
+
+## Add Holopin Badges
+
+```markdown
+[![@yourholopin's Holopin board](https://holopin.io/api/user/board?user=yourholopin)](https://holopin.io/@yourholopin)
+```
